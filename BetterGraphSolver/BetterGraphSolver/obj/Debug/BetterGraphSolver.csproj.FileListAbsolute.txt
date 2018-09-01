@@ -1,0 +1,11 @@
+c:\users\johnwhite1221\documents\visual studio 2015\Projects\BetterGraphSolver\BetterGraphSolver\bin\Debug\BetterGraphSolver.exe.config
+c:\users\johnwhite1221\documents\visual studio 2015\Projects\BetterGraphSolver\BetterGraphSolver\bin\Debug\BetterGraphSolver.exe
+c:\users\johnwhite1221\documents\visual studio 2015\Projects\BetterGraphSolver\BetterGraphSolver\bin\Debug\BetterGraphSolver.pdb
+c:\users\johnwhite1221\documents\visual studio 2015\Projects\BetterGraphSolver\BetterGraphSolver\obj\Debug\BetterGraphSolver.csprojResolveAssemblyReference.cache
+c:\users\johnwhite1221\documents\visual studio 2015\Projects\BetterGraphSolver\BetterGraphSolver\obj\Debug\BetterGraphSolver.Properties.Resources.resources
+c:\users\johnwhite1221\documents\visual studio 2015\Projects\BetterGraphSolver\BetterGraphSolver\obj\Debug\BetterGraphSolver.csproj.GenerateResource.Cache
+c:\users\johnwhite1221\documents\visual studio 2015\Projects\BetterGraphSolver\BetterGraphSolver\obj\Debug\BetterGraphSolver.exe
+c:\users\johnwhite1221\documents\visual studio 2015\Projects\BetterGraphSolver\BetterGraphSolver\obj\Debug\BetterGraphSolver.pdb
+C:\Users\JohnWhite1221\Documents\Visual Studio 2015\Projects\BetterGraphSolver\BetterGraphSolver\obj\Debug\BetterGraphSolver.Form1.resources
+C:\Users\JohnWhite1221\Documents\Visual Studio 2015\Projects\BetterGraphSolver\BetterGraphSolver\obj\Debug\BetterGraphSolver.WindowMatx.resources
+C:\Users\JohnWhite1221\Documents\Visual Studio 2015\Projects\BetterGraphSolver\BetterGraphSolver\obj\Debug\BetterGraphSolver.About.resources

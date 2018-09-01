@@ -1,0 +1,10 @@
+C:\Users\JohnWhite1221\Documents\Visual Studio 2015\Projects\BetterGraphSolver\BetterGraphSolver\bin\Release\BetterGraphSolver.exe.config
+C:\Users\JohnWhite1221\Documents\Visual Studio 2015\Projects\BetterGraphSolver\BetterGraphSolver\bin\Release\BetterGraphSolver.exe
+C:\Users\JohnWhite1221\Documents\Visual Studio 2015\Projects\BetterGraphSolver\BetterGraphSolver\bin\Release\BetterGraphSolver.pdb
+C:\Users\JohnWhite1221\Documents\Visual Studio 2015\Projects\BetterGraphSolver\BetterGraphSolver\obj\Release\BetterGraphSolver.About.resources
+C:\Users\JohnWhite1221\Documents\Visual Studio 2015\Projects\BetterGraphSolver\BetterGraphSolver\obj\Release\BetterGraphSolver.Form1.resources
+C:\Users\JohnWhite1221\Documents\Visual Studio 2015\Projects\BetterGraphSolver\BetterGraphSolver\obj\Release\BetterGraphSolver.Properties.Resources.resources
+C:\Users\JohnWhite1221\Documents\Visual Studio 2015\Projects\BetterGraphSolver\BetterGraphSolver\obj\Release\BetterGraphSolver.WindowMatx.resources
+C:\Users\JohnWhite1221\Documents\Visual Studio 2015\Projects\BetterGraphSolver\BetterGraphSolver\obj\Release\BetterGraphSolver.csproj.GenerateResource.Cache
+C:\Users\JohnWhite1221\Documents\Visual Studio 2015\Projects\BetterGraphSolver\BetterGraphSolver\obj\Release\BetterGraphSolver.exe
+C:\Users\JohnWhite1221\Documents\Visual Studio 2015\Projects\BetterGraphSolver\BetterGraphSolver\obj\Release\BetterGraphSolver.pdb
